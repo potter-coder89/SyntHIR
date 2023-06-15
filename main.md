@@ -1589,3 +1589,9 @@ deploy and run each of the components independently:
 2.  Build each component with the command: 'mvn clean install'.
 
 3.  To run each component: java -jar component-name.0.0.1.jar
+
+SyntHIR Smart app
+=====================
+1.  npm install
+
+2.  yarn start
